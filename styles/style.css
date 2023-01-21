@@ -1,7 +1,14 @@
+/* header section  */
 .css-prev {
     background-color: rgba(128, 128, 128, 0.336);
 }
 
 .css-next {
     background-color: rgba(128, 128, 128, 0.349);
+}
+
+/* footer section  */
+
+.ftr-description h6 {
+    margin: 0 10px;
 }
